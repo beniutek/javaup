@@ -1,0 +1,14 @@
+May 15, 2019 4:58:47 PM FileReaderWriter readFilenameFromInput
+FINER: ENTRY
+May 15, 2019 4:58:55 PM FileReaderWriter readFilenameFromInput
+FINER: RETURN
+May 15, 2019 4:58:55 PM FileReaderWriter readFile
+FINER: ENTRY
+May 15, 2019 4:58:55 PM FileReaderWriter readFile
+FINER: RETURN
+May 15, 2019 4:58:55 PM FileReaderWriter writeToFile
+FINER: ENTRY newFile.txt
+May 15, 2019 4:58:55 PM FileReaderWriter writeToFile
+INFO: writing data to file: newFile.txt
+May 15, 2019 4:58:55 PM FileReaderWriter writeToFile
+FINER: RETURN
