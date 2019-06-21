@@ -1,0 +1,4 @@
+Dzielnica{nrDzielnicy=4, tablicaUlic=null} 
+Dzielnica{nrDzielnicy=3, tablicaUlic=null} 
+Dzielnica{nrDzielnicy=2, tablicaUlic=null} 
+Dzielnica{nrDzielnicy=1, tablicaUlic=null} 
