@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class Grupa1 {
     // zad5
     public static boolean maleLiteryCyfry(String napis) {
         String pattern = "^([0-9]*[a-z]*[0-9]*[a-z]*)$";
@@ -33,7 +33,7 @@ public class Main {
             while (scanner.hasNextLine()) {
                 String napis = scanner.nextLine();
                 // zad 5
-                if (Main.maleLiteryCyfry(napis)) {
+                if (Grupa1.maleLiteryCyfry(napis)) {
                     System.out.println(napis);
                 }
                 // zad5 end
