@@ -12,7 +12,11 @@ public class Grupa1 {
     // zad 5 end
 
     public static void main(String[] args) {
-        double[][] x = new double[1][1];
+        double[][] x = {
+                { 1.1, 2.2, 3.3 },
+                { 4.4, 5.5, 6.6 },
+                { 7.7, 8.8, 9.9 }
+        };
 
         // zad 3
         Klasa1 a = new Klasa1(x, 10);
@@ -46,5 +50,9 @@ public class Grupa1 {
             System.out.println("file not found in current directory\n"+"current dir: " + System.getProperty("user.dir"));
         }
         // zad4 end
+
+        // zad 6
+
+        Zad6.wypisz2D(x);
     }
 }

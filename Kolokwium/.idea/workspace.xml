@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a41aff4a-2d11-4822-a4b6-5cfea49d5358" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../kolosPoprawkowy/src/Zad6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../kolosPoprawkowy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kolosPoprawkowy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kolosPoprawkowy/out/production/kolosPoprawkowy/Grupa1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../kolosPoprawkowy/out/production/kolosPoprawkowy/Grupa1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../kolosPoprawkowy/src/Grupa1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kolosPoprawkowy/src/Grupa1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../nauka/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nauka/.idea/workspace.xml" afterDir="false" />
     </list>
