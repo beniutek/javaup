@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="758bd677-8123-4243-978f-da7489e7e63a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Kolokwium/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kolokwium/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../kolosPoprawkowy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kolosPoprawkowy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kolosPoprawkowy/src/Grupa1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kolosPoprawkowy/src/Grupa1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolosPoprawkowy/src/Klasa2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kolosPoprawkowy/src/Klasa2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -260,12 +258,12 @@
       <workItem from="1557409437470" duration="2469000" />
       <workItem from="1561134079855" duration="633000" />
       <workItem from="1568363469125" duration="2397000" />
-      <workItem from="1568372616918" duration="105000" />
+      <workItem from="1568372616918" duration="384000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15979000" />
+    <option name="totallyTimeSpent" value="16258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
