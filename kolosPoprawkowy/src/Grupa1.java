@@ -26,7 +26,7 @@ public class Grupa1 {
 
         Klasa1[] arr = { a, b, c, d };
 
-        Arrays.sort(arr, new KlasaComparator());
+        Arrays.sort(arr, (Klasa1 k1, Klasa1 k2) -> k1.getCalkowita() - k2.getCalkowita());
 
         for (int i = 0; i<arr.length; i++) {
             System.out.println(arr[i]);
