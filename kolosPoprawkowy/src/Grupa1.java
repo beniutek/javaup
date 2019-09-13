@@ -23,6 +23,10 @@ public class Grupa1 {
         Klasa1[] arr = { a, b, c, d };
 
         Arrays.sort(arr, new KlasaComparator());
+
+        for (int i = 0; i<arr.length; i++) {
+            System.out.println(arr[i]);
+        }
         // zad 3 end
 
         // zad 4

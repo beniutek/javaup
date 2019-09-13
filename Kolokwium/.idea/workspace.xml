@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a41aff4a-2d11-4822-a4b6-5cfea49d5358" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../kolosPoprawkowy/src/Klasa1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolosPoprawkowy/src/Klasa2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolosPoprawkowy/src/KlasaComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolosPoprawkowy/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kolokwium3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kolokwium3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kolokwium3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kolokwium3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kolos/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kolos/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kolos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kolos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolosPoprawkowy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kolosPoprawkowy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolosPoprawkowy/out/production/kolosPoprawkowy/Grupa1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../kolosPoprawkowy/out/production/kolosPoprawkowy/Grupa1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kolosPoprawkowy/src/Grupa1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kolosPoprawkowy/src/Grupa1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../nauka/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nauka/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nauka/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nauka/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wyjatki/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wyjatki/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wyjatki/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wyjatki/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wyjatki/src/Miasto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wyjatki/src/Miasto.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -202,12 +192,12 @@
       <updated>1561130115978</updated>
       <workItem from="1561130117441" duration="4405000" />
       <workItem from="1568363469804" duration="124000" />
-      <workItem from="1568365236249" duration="359000" />
+      <workItem from="1568365236249" duration="728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4888000" />
+    <option name="totallyTimeSpent" value="5257000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
